@@ -3,6 +3,14 @@ I have Created interactive dashboard using Power BI to analyze   electric vehicl
 # Used Dataset
 https://drive.google.com/file/d/1sTnmSyBCv6pC76GzW6tfcD58ZPk070v0/view?usp=drive_link
 
+# PROBLEM STATEMENT
+# Chart Requirement
+1.Total Vehicles by Model Year (From 2010 Onwards).
+2.Total Vehicles by State.
+3.Top 10 Total Vehicles by Make.
+4.Total Vehicles by CAFV Eligibility.
+5.Top 10 Total Vehicles by Model.
+
 # KPI’S Requirement
 1.Total Vehicles:
 Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
