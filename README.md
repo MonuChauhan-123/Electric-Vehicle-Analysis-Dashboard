@@ -2,7 +2,6 @@
 I have Created interactive dashboard using Power BI to analyze   electric vehicle trends, growth pattern, market data ,  adoption patterns, market dominance of specific brands. Utilized advanced analytics to identify  key performance  indicator(KPIs), forecast EV adoption, and provide actionable  insights for strategic decision making.
 # Used Dataset
 https://drive.google.com/file/d/1sTnmSyBCv6pC76GzW6tfcD58ZPk070v0/view?usp=drive_link
-# Dashboard
 
 # KPI’S Requirement
 1.Total Vehicles:
@@ -15,3 +14,5 @@ Calculate the percentage of BEVs relative to the total number of electric vehicl
 4.Total PHEV Vehicles and % of Total PHEV Vehicles:
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
+# Dashboard image
+![Dashboard image](https://github.com/user-attachments/assets/706179e1-0dd7-4c1d-85f5-ef7997255c6b)
